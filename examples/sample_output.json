@@ -1,0 +1,64 @@
+{
+  "original_width": 1935,
+  "original_height": 2400,
+  "degraded": false,
+  "stage0_status": {
+    "0A": true,
+    "0B": true,
+    "0C": true,
+    "0D": true,
+    "0E": true
+  },
+  "stage0_details": {
+    "0A": {
+      "mask_nonzero_pixels": 21345,
+      "empty_mask_threshold": 50
+    },
+    "0B": {
+      "soft_tissue_found": 6,
+      "soft_tissue_expected": 6,
+      "missing": [],
+      "used_fallback_zones": false
+    },
+    "0C": {
+      "primary_present": 4,
+      "primary_expected": 4,
+      "missing": []
+    },
+    "0D": {
+      "anchors_found": 7,
+      "anchors_expected": 7,
+      "missing": []
+    },
+    "0E": {
+      "mlp_ran": true
+    }
+  },
+  "landmarks": [
+    {"index": 0,  "name": "S",        "x":  962.34, "y":  668.21, "peak": 0.91, "confidence_score": 0.91, "confidence": "high",   "tier": "high"},
+    {"index": 1,  "name": "N",        "x":  712.55, "y":  670.41, "peak": 0.87, "confidence_score": 0.87, "confidence": "high",   "tier": "high"},
+    {"index": 2,  "name": "Or",       "x":  616.92, "y":  912.83, "peak": 0.72, "confidence_score": 0.72, "confidence": "high",   "tier": "medium"},
+    {"index": 3,  "name": "Po",       "x": 1258.10, "y":  840.18, "peak": 0.41, "confidence_score": 0.41, "confidence": "medium", "tier": "low"},
+    {"index": 4,  "name": "ANS",      "x":  581.27, "y": 1149.04, "peak": 0.84, "confidence_score": 0.84, "confidence": "high",   "tier": "high"},
+    {"index": 5,  "name": "PNS",      "x": 1004.40, "y": 1131.55, "peak": 0.33, "confidence_score": 0.33, "confidence": "medium", "tier": "low"},
+    {"index": 6,  "name": "A",        "x":  616.89, "y": 1248.97, "peak": 0.78, "confidence_score": 0.78, "confidence": "high",   "tier": "medium"},
+    {"index": 7,  "name": "B",        "x":  637.42, "y": 1564.10, "peak": 0.36, "confidence_score": 0.36, "confidence": "medium", "tier": "low"},
+    {"index": 8,  "name": "Pog",      "x":  640.85, "y": 1635.27, "peak": 0.81, "confidence_score": 0.81, "confidence": "high",   "tier": "medium"},
+    {"index": 9,  "name": "Gn",       "x":  676.30, "y": 1755.49, "peak": 0.79, "confidence_score": 0.79, "confidence": "high",   "tier": "medium"},
+    {"index": 10, "name": "Me",       "x":  712.62, "y": 1800.61, "peak": 0.88, "confidence_score": 0.88, "confidence": "high",   "tier": "high"},
+    {"index": 11, "name": "Go",       "x": 1197.88, "y": 1635.30, "peak": 0.69, "confidence_score": 0.69, "confidence": "high",   "tier": "medium"},
+    {"index": 12, "name": "Ar",       "x": 1197.50, "y":  960.85, "peak": 0.63, "confidence_score": 0.63, "confidence": "high",   "tier": "medium"},
+    {"index": 13, "name": "Co",       "x": 1158.42, "y":  840.71, "peak": 0.55, "confidence_score": 0.55, "confidence": "high",   "tier": "low"},
+    {"index": 14, "name": "U1_tip",   "x":  580.04, "y": 1320.18, "peak": 0.68, "confidence_score": 0.68, "confidence": "high",   "tier": "medium"},
+    {"index": 15, "name": "U1_root",  "x":  640.27, "y": 1080.43, "peak": 0.49, "confidence_score": 0.49, "confidence": "medium", "tier": "low"},
+    {"index": 16, "name": "L1_tip",   "x":  580.95, "y": 1392.50, "peak": 0.71, "confidence_score": 0.71, "confidence": "high",   "tier": "medium"},
+    {"index": 17, "name": "L1_root",  "x":  640.60, "y": 1635.20, "peak": 0.51, "confidence_score": 0.51, "confidence": "high",   "tier": "low"},
+    {"index": 18, "name": "UL",       "x":  483.48, "y": 1320.65, "peak": 0.83, "confidence_score": 0.83, "confidence": "high",   "tier": "medium"},
+    {"index": 19, "name": "LL",       "x":  483.21, "y": 1440.82, "peak": 0.82, "confidence_score": 0.82, "confidence": "high",   "tier": "medium"},
+    {"index": 20, "name": "Pm",       "x":  676.99, "y": 1395.30, "peak": 0.65, "confidence_score": 0.65, "confidence": "high",   "tier": "medium"},
+    {"index": 21, "name": "Ba",       "x": 1158.84, "y":  720.10, "peak": 0.29, "confidence_score": 0.29, "confidence": "medium", "tier": "low"},
+    {"index": 22, "name": "Pog_soft", "x":  541.30, "y": 1635.12, "peak": 0.86, "confidence_score": 0.86, "confidence": "high",   "tier": "medium"},
+    {"index": 23, "name": "Sn",       "x":  464.40, "y": 1200.55, "peak": 0.85, "confidence_score": 0.85, "confidence": "high",   "tier": "medium"},
+    {"index": 24, "name": "Prn",      "x":  387.04, "y": 1008.39, "peak": 0.92, "confidence_score": 0.92, "confidence": "high",   "tier": "high"}
+  ]
+}
