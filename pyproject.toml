@@ -8,7 +8,7 @@ version = "0.4.0"
 description = "Anatomy-Guided Spatial Priors for Cephalometric Landmark Detection (v4 pipeline)"
 readme = "README.md"
 requires-python = ">=3.9"
-license = { text = "MIT" }
+license = {text = "CC-BY-NC-4.0"}
 authors = [
     { name = "Sidhartha Mohapatra" },
     { name = "Pallavi Mohanty, DDS" },

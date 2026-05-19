@@ -3,7 +3,7 @@
 **Anatomy-Guided Spatial Priors for Cephalometric Landmark Detection**
 
 [![arXiv](https://img.shields.io/badge/arXiv-2605.03358-b31b1b)](https://arxiv.org/abs/2605.03358)
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org)
 [![ONNX](https://img.shields.io/badge/Inference-ONNX%20Runtime-orange)](https://onnxruntime.ai)
 
